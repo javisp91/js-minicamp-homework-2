@@ -1,0 +1,5 @@
+for loop: it allows to execute a block of code a number of times.
+&& || ! : && means both conditions must be met, || means one of the two conditions must be met, and ! equals not.
+Array: it is like a variable with mutiple elements.
+git: version control, so when someone adds something new, the owners of the repository can decide whether to go ahead with the change or not.
+GitHub: it is a repository. You can store your code in the cloud and it also allows people to work together.
